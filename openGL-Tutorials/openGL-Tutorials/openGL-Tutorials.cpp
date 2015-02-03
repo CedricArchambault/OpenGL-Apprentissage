@@ -6,7 +6,7 @@
 
 int _tmain(int argc, _TCHAR* argv[])
 {
-	//hello world
+	//hello world 2
 	return 0;
 }
 
